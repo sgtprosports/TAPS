@@ -8,6 +8,29 @@
   "orientation": "portrait",
   "background_color": "#F3F6FA",
   "theme_color": "#0A3161",
+  "screenshots": [
+  {
+    "src": "Screenshot_20260928_093750_.png",
+    "sizes": "1080x2400",
+    "type": "image/png"
+  }
+    "screenshots": [
+  {
+    "src": "Screenshot_20260928_093800_Chrome.jpg",
+    "sizes": "1080x2400",
+    "type": "image/png"
+  }
+      "screenshots": [
+  {
+    "src": "Screenshot_20260928_093902_Chrome.jpg",
+    "sizes": "1080x2400",
+    "type": "image/png"
+  }
+],
+
+],
+
+],
   "icons": [
     {
       "src": "icon-192.png",
