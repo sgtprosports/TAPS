@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.sgtprosports.twa",
+    "sha256_cert_fingerprints": ["D8:09:33:FF:1F:8A:E1:5E:AD:1B:3A:99:17:C0:DC:98:33:04:E4:3E:47:1A:F7:1F:10:AB:11:68:97:EE:AE:88"]
+  }
+}]
