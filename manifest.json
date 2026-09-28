@@ -13,23 +13,17 @@
     "src": "Screenshot_20260928_093750_.png",
     "sizes": "1080x2400",
     "type": "image/png"
-  }
-    "screenshots": [
+  },
   {
-    "src": "Screenshot_20260928_093800_Chrome.jpg",
+    "src": "Screenshot_20260928_093800_.png",
+    "sizes": "1080x2400",
+    "type": "image/png"
+  },
+  {
+    "src": "Screenshot_20260928_093902_.png",
     "sizes": "1080x2400",
     "type": "image/png"
   }
-      "screenshots": [
-  {
-    "src": "Screenshot_20260928_093902_Chrome.jpg",
-    "sizes": "1080x2400",
-    "type": "image/png"
-  }
-],
-
-],
-
 ],
   "icons": [
     {
