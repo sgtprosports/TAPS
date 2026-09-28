@@ -1,5 +1,5 @@
 {
-  "name": "TAPS — The All-Around Player Scorebook",
+  "name": "TAPS - The All-Around Player Scorebook",
   "short_name": "TAPS",
   "description": "Live basketball hustle-stat tracker for youth coaches, covering all 19 tracked plays from The All-Around Player Scorebook.",
   "start_url": "./index.html",
@@ -9,22 +9,22 @@
   "background_color": "#F3F6FA",
   "theme_color": "#0A3161",
   "screenshots": [
-  {
-    "src": "Screenshot_20260928_093750_.png",
-    "sizes": "1080x2400",
-    "type": "image/png"
-  },
-  {
-    "src": "Screenshot_20260928_093800_.png",
-    "sizes": "1080x2400",
-    "type": "image/png"
-  },
-  {
-    "src": "Screenshot_20260928_093902_.png",
-    "sizes": "1080x2400",
-    "type": "image/png"
-  }
-],
+    {
+      "src": "Screenshot_20260928_093750_.png",
+      "sizes": "1080x2400",
+      "type": "image/png"
+    },
+    {
+      "src": "Screenshot_20260928_093800_.png",
+      "sizes": "1080x2400",
+      "type": "image/png"
+    },
+    {
+      "src": "Screenshot_20260928_093902_.png",
+      "sizes": "1080x2400",
+      "type": "image/png"
+    }
+  ],
   "icons": [
     {
       "src": "icon-192.png",
